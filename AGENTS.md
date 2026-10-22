@@ -32,3 +32,9 @@ The pages contain personal resume-style material and local photos. Treat those f
 Keep living docs truthful about the repository's learning/static nature. Preserve historical exercise comments unless a scoped cleanup explicitly removes them.
 
 Do not discard unrelated work, rewrite history, force-push, or perform destructive cleanup. Keep changes small and reviewable.
+
+## Cross-project UX, DX, and AX principles
+
+Cut taglines, helper text and secondary labels. If a screen needs them to make sense, fix the layout.
+
+Make the best decision that will elevate all three: the user experience (UX), developer experience (DX), and agent experience (AX) always, without breaking anything.
